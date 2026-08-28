@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.vespe125.twa",
+        "sha256_cert_fingerprints": ["D5:CB:01:B9:C6:BE:A7:46:84:60:67:8B:D6:B3:FE:0A:1B:DE:EA:35:FC:2C:DB:8C:85:6A:88:11:90:16:4D:67"]
+      }
+    }]
